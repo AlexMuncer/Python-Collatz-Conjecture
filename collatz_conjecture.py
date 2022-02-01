@@ -1,6 +1,5 @@
 # Author : Alex Muncer
 # Date: 23/11/2021
-# Universtiy of Hertfordfordshire SRN: 14152188
 #
 # This program takes any positive integer and continually calculates until it reaches 1, 
 # if the value is even it will divide by 2, and if the value is odd it will multiply it by 3 and add 1.
